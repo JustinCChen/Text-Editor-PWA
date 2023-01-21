@@ -11,7 +11,7 @@ This is a live application which can be viewed here: https://shrouded-bayou-7131
  [![Webpack Shield](https://img.shields.io/badge/WebPack-8DD6F9?&style=for-the-badge&logo=webpack&logoColor=333333)](https://webpack.js.org/) [![Babel Shield](https://img.shields.io/badge/Babel-F9DC3E?&style=for-the-badge&logo=babel&logoColor=333333)](https://babeljs.io/) [![Express Shield](https://img.shields.io/badge/Express-000000?&style=for-the-badge&logo=express&logoColor=white)](http://expressjs.com/) [![JavaScript Shield](https://img.shields.io/badge/JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=272727)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Node.js Shield](https://img.shields.io/badge/Node.js-339933?&style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/) [![NPM Shield](https://img.shields.io/badge/NPM-333333?&style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 
 # Screenshot
-![me]()
+![me](https://github.com/JustinCChen/Text-Editor-PWA/blob/main/Assets/Screen%20Shot%202023-01-20%20at%2010.19.52%20PM.png)
 
 
 
